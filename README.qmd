@@ -1,5 +1,6 @@
 ---
 title: "Minnesota COVID Report"
+author: "Thao Le"
 format: gfm
 execute: 
   eval: true
