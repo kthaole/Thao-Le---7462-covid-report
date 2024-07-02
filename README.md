@@ -1,7 +1,7 @@
 # Minnesota COVID Report
 Thao Le
 
-Report last run: 2024-07-01 22:16:45
+Report last run: 2024-07-02 22:15:24
 
 ## Introduction
 
